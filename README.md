@@ -1,2 +1,2 @@
 # DOCS
-Para documentos de cualquier clase
+Para documentos de cualquier clase.
